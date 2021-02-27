@@ -24,3 +24,4 @@ How to set the program icons heavily depends on your operating system.
 - On Windows, right-click any link file (like one to an executable as usually found on the desktop), click Properties -> Other Symbol -> click on the top button next to the file path to select a file. Select the .ico file you want to use; raw PNG files are not accepted! Click all of the OK buttons and it should update within a few seconds.
 - It is not known to the author if macOS allows changing icons. If you have information on how to achieve it, please submit a pull request.
 - On Linux, it heavily depends on your desktop manager. Please submit a pull request if you know how to do it on one particular desktop manager.
+  - GNOME: go to the `/usr/share/applications/` directory, open the .desktop file of the program in a text editor as sudo, (in case of Firefox) replace `Icon=firefox` with `Icon=/path/to/your/icon.png`, and reload your DE.
