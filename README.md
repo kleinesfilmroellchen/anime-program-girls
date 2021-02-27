@@ -5,9 +5,16 @@ This repo contains a collection of images of Anime/Manga girls that personify co
 
 # Regarding copyright
 
-The author of this repository has not created these images. Although they are technically under copyright, many images have unclear origins and/or the author is unobtainable. In addition, all of the images have been heavily edited, so could be considered transformative work. Anyways, if you hold copyright for one or more of these images, please submit an issue and the images will be removed as soon as possible. If you hold copyright but would allow this use of your material, please submit an issue or pull request to add your name and links to your online presence to the list below.
+The author of this repository has not created these images. Although they are technically under copyright, all of the images have been heavily edited, so could be considered transformative work. Anyways, if you hold copyright for one or more of these images, please submit an issue and the images will be removed as soon as possible. If you hold copyright but would allow this use of your material, please submit an issue or pull request to add your name and links to your online presence to the list below.
 
 # Authors & Image origins
+
+- Word, Excel, PowerPoint, Skype, Notepad, Java by **Reef1600** ([Deviantart](https://www.deviantart.com/reef1600))
+- Chrome, Edge/Internet Explorer by **Merryweather** ([Reddit](https://www.reddit.com/user/Merryweatherey/)) ([Twitter](https://twitter.com/Merryweatherey)) ([Internet Explorer Webtoon Source](https://www.webtoons.com/en/challenge/internet-explorer/list?title_no=219164))
+- Anime girl drawing by **Eddzy** ([Deviantart](https://www.deviantart.com/edzzy))
+- Earth-chan/Recycle Bin by **兎姫** ([Pixiv](https://www.pixiv.net/en/users/266106))
+- Firefox by unknown author (image appears on multiple sites but there is not definite author) 
+- VLC media player by **girlsome1** ([Source](https://archive.nyafuu.org/c/thread/1998115/)) (author cannot be found on the internet)
 
 # How to use
 
